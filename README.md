@@ -1,6 +1,6 @@
 # Google-Analytics-Capstone
 
-For the final course for the Google Data Analytics Professional Certificate, a capstone is completed with a case study. This case study addresses Bellabeat's business task to find out how can a wellness technology company play it smart? 
+For the final course for the Google Data Analytics Professional Certificate, a capstone is completed with a case study. This case study addresses Bellabeat's business task to find: how can a wellness technology company play it smart? 
 
 For the high-level business analysis (to mimick a high-level presentation/report to stakeholders), please refer to the [Google_Capstone.pdf](https://github.com/EllaKim9/Google-Analytics-Capstone/blob/main/Google_Capstone.pdf) above. 
 
